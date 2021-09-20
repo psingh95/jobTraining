@@ -10,4 +10,3 @@ print(lake['Last'])
 lakers 
 print(jsonObject["array"][0]['age']) """    
 
-lakes
