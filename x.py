@@ -7,7 +7,5 @@ print(lake['Last'])
 """ with open('ex.json') as jsonFile:
     jsonObject = json.load(jsonFile)
     jsonFile.close()
-
-
 lakers 
 print(jsonObject["array"][0]['age']) """    
