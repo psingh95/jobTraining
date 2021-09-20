@@ -8,4 +8,6 @@ print(lake['Last'])
     jsonObject = json.load(jsonFile)
     jsonFile.close()
 
+
+lakers 
 print(jsonObject["array"][0]['age']) """    
