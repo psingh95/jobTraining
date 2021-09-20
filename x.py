@@ -9,3 +9,5 @@ print(lake['Last'])
     jsonFile.close()
 lakers 
 print(jsonObject["array"][0]['age']) """    
+
+lakes
