@@ -68,7 +68,7 @@ class x:  //blueprint for objects
         print('hi')
 
 
-basis of linix(copy, locate, reverse serch, ls, cd, path and enviorment variables, which, curl, netstat, basis of grep)
+basis of linix(copy, locate, ls, cd, path and enviorment variables, which, curl, netstat, basis of grep)
 flask libary after (fast http)
 
 read about jenkins blue ocean pipline, explor lambda
