@@ -68,8 +68,23 @@ class x:  //blueprint for objects
         print('hi')
 
 
-basis of linix(copy, locate, ls, cd, path and enviorment variables, which, curl, netstat, basis of grep)
-flask libary after (fast http)
+webpage for login 
+api (get) from data base 
+
+route handler: path where it has to be redricted 
+def login(username, password): 
+    check if username exists in database 
+    if username exist:
+        check if password provided matches the database password
+    else:
+        username dose not exist or worng password
+
+GET: to retrive data from database 
+POST: to save data to database
+PUT: updata existing data in the database 
+DELETE: delete data from database 
 
 read about jenkins blue ocean pipline, explor lambda
 
+basis of linix(copy, locate, ls, cd, which, curl, netstat, basis of grep, path and enviorment variables)
+flask libary after (fast http)
