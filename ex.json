@@ -1,8 +1,7 @@
 {
-  "array": [                        
-    {
-      "name": "pawan",
-      "age":23
-    }
+    "collection" : [              
+          {"id" : 101},
+          {"id" : 102},
+          {"id" : 103}
     ]
-}
+  } 

@@ -1,0 +1,75 @@
+data set used to store variables, muatable, slow compared to truple 
+
+how dose the print funtion work in python , stream input and output(IO)
+
+1st: mySQL, 2nd: mongoDB, 3rd: json, 4th: api Desgin, 5th: python code(review), 
+6th: jenkins, 7th: CI/CD, 8th: GIT, 9th-10th: generl questions/documentation 
+
+basis of linix
+flask libary after (fast http)
+
+ID name:        address 
+1   pawan          USA
+2   ayodhya       India
+3    Bala         null/none
+4    Jess           USA 
+
+ID name:        SSN 
+1   pawan        1
+2   ayodhya      2
+3    Bala        null/none
+4    Jess          3 
+
+read/write data from/to sql 
+SELECT * FROM table; SELECT * FROM person
+SELECT name, address, ID FROM person
+SELECT * from table WHERE condition LIMIT 5; selects the first 5 records in a database 
+
+read about aws(S3, boto3, cli-config secert key/asses key)
+
+pull data from s3,
+crate dataframe using pandas 
+plot the pirce using matplot or plotly 
+maniplate the data to my needs 
+upload it back to s3 for later use or to be used by someone else 
+
+SELECT * from table WHERE name == 'Pawan' LIMIT 5;
+
+dict = dict({1:'pawan', 2:'Ayodhya})
+{'key':'pawan', 'command':'get'}
+
+read about mySQL(insert, delete, alter, update, group, join)
+
+SELECT COUNT(*), address FROM person GROUP BY address ORDER BY address DESC; keeps count of how people are in a country and orders by alpha decending 
+
+JSON is a text format for transporting and storing data. transporting data can done api call, storing can be done a non realtional database like mongodb
+
+'{"name":"Pawan", "age":30, "car":”bmw”}'
+{"name": "Pawan", "age": 30, "car": "bmw"}
+
+mysql= tables, records mongoDB = documents, collections 
+
+ {
+"geek":[ "Sahil", "Vivek", "Rahul" ]  doc["geek"][0]
+}
+
+{
+  "collection" : [              doc["collection"][0]["id"]
+        {"id" : 101},
+        {"id" : 102},
+        {"id" : 103}
+  ]
+} 
+
+read about sets and unions (MATH), join (mySQL), jenkins, AWS
+
+class x:  //blueprint for objects
+    def y():
+        print('hi')
+
+
+basis of linix(copy, locate, reverse serch, ls, cd, path and enviorment variables, which, curl, netstat, basis of grep)
+flask libary after (fast http)
+
+read about jenkins blue ocean pipline, explor lambda
+
