@@ -8,4 +8,4 @@ class jenkins_test:
         return num1 + num2
 
 x = jenkins_test()
-print(x.hello_world())kdkd
+print(x.hello_world())
