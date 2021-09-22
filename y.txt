@@ -67,24 +67,35 @@ class x:  //blueprint for objects
     def y():
         print('hi')
 
+read about jenkins blue ocean pipline, explor lambda
+
+basis of linix(copy, locate, ls, cd, which, curl, netstat, basis of grep, path enviorment variables)
+flask libary after (fast http)
+grep "hi" hello.txt
 
 webpage for login 
 api (get) from data base 
 
 route handler: path where it has to be redricted 
+@app.route()
+@loginrequired
 def login(username, password): 
     check if username exists in database 
     if username exist:
         check if password provided matches the database password
+        app.route(/youarelogedinapawan)
+        def helloworld():
+            print('hello world')
+            
     else:
         username dose not exist or worng password
+        app.route(/login)
 
 GET: to retrive data from database 
 POST: to save data to database
 PUT: updata existing data in the database 
 DELETE: delete data from database 
 
-read about jenkins blue ocean pipline, explor lambda
-
-basis of linix(copy, locate, ls, cd, which, curl, netstat, basis of grep, path and enviorment variables)
-flask libary after (fast http)
+write python project 2 methods one prints hello world and other adds 2 numbers 
+install jenkins create a pipline in blue ocean 
+targetsum solution 
