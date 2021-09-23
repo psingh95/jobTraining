@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('test') {
       steps {
-        echo 'hello m'
+        sh 'sh \'python testjenkins.py\''
       }
     }
 
