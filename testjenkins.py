@@ -11,5 +11,5 @@ class Testjenkins(unittest.TestCase):
         self.assertEqual(jenkinsTest.hello_world(), 'Hello World')
 
 if __name__ == '__main__':
-    unittest.main() lakes
+    unittest.main()
     
