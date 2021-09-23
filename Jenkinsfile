@@ -5,10 +5,6 @@ pipeline {
       steps {
         sh 'sh \'python testjenkins.py\''
       }
-      post {
-        always {
-          junit 'test-reports/*.xml'
-        }
     }
 
   }
