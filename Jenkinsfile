@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('test') {
       steps {
-        bat 'python testjenkins.py'
+        bat 'python test_jenkins.py'
       }
     }
 
