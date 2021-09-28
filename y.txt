@@ -99,3 +99,6 @@ DELETE: delete data from database
 write python project 2 methods one prints hello world and other adds 2 numbers 
 install jenkins create a pipline in blue ocean 
 targetsum solution 
+
+
+Basic of testing --> Testing framework --> how to intrigate the testing framework
