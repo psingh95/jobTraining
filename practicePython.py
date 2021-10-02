@@ -15,4 +15,4 @@ def two_numbers(nums, targetsum):
 x = [1,2,3,4,5,6]
 target = 6
 two_numbers(x, target)
-#o(n) and o(1)
+#o(n) and o(1)  
