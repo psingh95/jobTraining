@@ -6,7 +6,7 @@ class Testjenkins(unittest.TestCase):
         self.assertEqual(jenkinstest.addTwo(10,5), 15)
 
     def test_helloworld(self):
-        self.assertEqual(jenkinstest.helloWorld(), 'Hello World')
+        self.assertEqual(jenkinstest.helloWorld(), 'Hello World')   
 
 if __name__ == '__main__':
     unittest.main()
